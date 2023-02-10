@@ -25,7 +25,6 @@ for i, sentence in enumerate(doc.sents):
 with open("clean_well_lighted_place.jsonl", "w") as f:
     for item in data:
         f.write(json.dumps(item) + "\n")
-'''
 
 data = []
 with open("clean_well_lighted_place.jsonl", "r") as f:
@@ -40,3 +39,15 @@ for i, d in enumerate(data):
 with open("clean_well_lighted_place.jsonl", "w") as f:
     for d in data:
         f.write(json.dumps(d) + "\n")
+'''
+
+with open(r"clean_well_lighted_place.jsonl", "r") as input_file, open(r"annotated_data\hemingway_clean_well_lighted_place_dr_s_annotations.jsonl", "w") as output_file:
+    # Loop over each line of the input file
+    for line in input_file:
+        # Parse the line as a JSON object
+        obj = json.loads(line)
+        # Update the "annotator" field
+        obj["annotator"] = "dr_s"
+        # Write the updated JSON object to the output file
+        output_file.write(json.dumps(obj) + "\n")
+
