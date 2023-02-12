@@ -1,0 +1,448 @@
+{"annotator":"model","sentence_number":1,"text":"In these times of ours, though concerning the exact year there is no need to be precise, a boat of dirty and disreputable appearance, with two figures in it, floated on the Thames, between Southwark bridge which is of iron, and London Bridge which is of stone, as an autumn evening was closing in.","model_entities":[{"entity_group":"LABEL_1","score":0.9999114275,"word":"In these","start":0,"end":8},{"entity_group":"LABEL_0","score":0.9852070808,"word":"times of ours, though concerning the exact year there is no need to be precise, a boat of dir","start":9,"end":102},{"entity_group":"LABEL_1","score":0.9752147198,"word":"ty","start":102,"end":104},{"entity_group":"LABEL_0","score":0.9952789545,"word":"and disreput","start":105,"end":117},{"entity_group":"LABEL_1","score":0.5950529575,"word":"able","start":117,"end":121},{"entity_group":"LABEL_0","score":0.9998867512,"word":"appearance, with two figures in it, floated on the Thames, between Southwark bridge which is of iron, and London Bridge which is of stone, as an autumn evening was","start":122,"end":285},{"entity_group":"LABEL_1","score":0.9978494644,"word":"clo","start":286,"end":289},{"entity_group":"LABEL_0","score":0.572032094,"word":"sing","start":289,"end":293},{"entity_group":"LABEL_1","score":0.9975736737,"word":"in","start":294,"end":296},{"entity_group":"LABEL_0","score":0.999971509,"word":".","start":296,"end":297}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":2,"text":"The figures in this boat were those of a strong man with ragged grizzled hair and a sun-browned face, and a dark girl of nineteen or twenty,sufficiently like him to be recognizable as his daughter.","model_entities":[{"entity_group":"LABEL_0","score":0.9999632835,"word":"The figures in","start":0,"end":14},{"entity_group":"LABEL_1","score":0.9988684654,"word":"this","start":15,"end":19},{"entity_group":"LABEL_0","score":0.9999529123,"word":"boat were","start":20,"end":29},{"entity_group":"LABEL_1","score":0.9990642667,"word":"those","start":30,"end":35},{"entity_group":"LABEL_0","score":0.9822335243,"word":"of a strong man with","start":36,"end":56},{"entity_group":"LABEL_1","score":0.8707960248,"word":"ragged","start":57,"end":63},{"entity_group":"LABEL_0","score":0.9999265671,"word":"grizzled hair and a","start":64,"end":83},{"entity_group":"LABEL_1","score":0.7342890501,"word":"sun-browned","start":84,"end":95},{"entity_group":"LABEL_0","score":0.9999895692,"word":"face, and a","start":96,"end":107},{"entity_group":"LABEL_1","score":0.5935816169,"word":"dark","start":108,"end":112},{"entity_group":"LABEL_0","score":0.9999226332,"word":"girl of nineteen or twenty,sufficiently like him to be recognizable as his daughter.","start":113,"end":197}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":3,"text":"The girl rowed, pulling a pair of sculls very easily; the man, with the rudder-lines slack in his hands, and his hands loose in his waist band,kept an eager look out.","model_entities":[{"entity_group":"LABEL_0","score":0.9996536374,"word":"The girl rowed, pulling a pair of sculls very easily; the man,","start":0,"end":62},{"entity_group":"LABEL_1","score":0.9589881897,"word":"with","start":63,"end":67},{"entity_group":"LABEL_0","score":0.8351683617,"word":"the rudder-","start":68,"end":79},{"entity_group":"LABEL_1","score":0.9705564976,"word":"lines","start":79,"end":84},{"entity_group":"LABEL_0","score":0.9390096068,"word":"slack in his hands, and his hands loose in his waist band,","start":85,"end":143},{"entity_group":"LABEL_1","score":0.8182051778,"word":"kept","start":143,"end":147},{"entity_group":"LABEL_0","score":0.9996339083,"word":"an e","start":148,"end":152},{"entity_group":"LABEL_1","score":0.859967947,"word":"ager","start":152,"end":156},{"entity_group":"LABEL_0","score":0.9334991574,"word":"look out.","start":157,"end":166}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":4,"text":"He had no net, hook, or line, and he could not be a fisherman; his boat had no cushion for a sitter, no paint, no inscription, no appliance beyond a rusty boathook and a coil of rope, and he could not be a waterman; his boat was too crazy and too small to take in cargo for delivery, and he could not be a lighterman or river-carrier; there was no clue to what he looked for, but he looked for something, with a most intent and searching gaze.","model_entities":[{"entity_group":"LABEL_0","score":0.9979137182,"word":"He had no net, hook, or line, and he could not be a fisherman; his boat had no cushion for a sitter, no paint, no inscription, no appliance beyond a rusty boathook and a coil of rope, and he could not be a waterman; his boat was too","start":0,"end":232},{"entity_group":"LABEL_1","score":0.9958546758,"word":"crazy","start":233,"end":238},{"entity_group":"LABEL_0","score":0.9999843836,"word":"and too small to","start":239,"end":255},{"entity_group":"LABEL_1","score":0.9890778065,"word":"take in","start":256,"end":263},{"entity_group":"LABEL_0","score":0.9960844517,"word":"cargo for delivery, and he could not be a lighterman or river-carrier; there was no","start":264,"end":347},{"entity_group":"LABEL_1","score":0.9997557402,"word":"clue to","start":348,"end":355},{"entity_group":"LABEL_0","score":0.9998346567,"word":"what he looked for, but he looked for something, with a most intent and","start":356,"end":427},{"entity_group":"LABEL_1","score":0.99817276,"word":"searching","start":428,"end":437},{"entity_group":"LABEL_0","score":0.9999839664,"word":"gaze.","start":438,"end":443}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":5,"text":"The tide, which had turned an hour before, was running down, and his eyes watched every little race and eddy in its broad sweep, as the boat made slight head-way against it, or drove stern foremost before it, according as he directed his daughter by a movement of his head.","model_entities":[{"entity_group":"LABEL_0","score":0.9990878701,"word":"The tide, which had","start":0,"end":19},{"entity_group":"LABEL_1","score":0.9996320009,"word":"turned","start":20,"end":26},{"entity_group":"LABEL_0","score":0.9999941587,"word":"an hour","start":27,"end":34},{"entity_group":"LABEL_1","score":0.9998532534,"word":"before","start":35,"end":41},{"entity_group":"LABEL_0","score":0.9999918342,"word":", was","start":41,"end":46},{"entity_group":"LABEL_1","score":0.5826692581,"word":"running","start":47,"end":54},{"entity_group":"LABEL_0","score":0.9905770421,"word":"down, and his eyes","start":55,"end":73},{"entity_group":"LABEL_1","score":0.9992383718,"word":"watched","start":74,"end":81},{"entity_group":"LABEL_0","score":0.9642425179,"word":"every little race and","start":82,"end":103},{"entity_group":"LABEL_1","score":0.9854466319,"word":"eddy in","start":104,"end":111},{"entity_group":"LABEL_0","score":0.9999716282,"word":"its","start":112,"end":115},{"entity_group":"LABEL_1","score":0.9925186038,"word":"broad sweep","start":116,"end":127},{"entity_group":"LABEL_0","score":0.9999841452,"word":", as the boat","start":127,"end":140},{"entity_group":"LABEL_1","score":0.8527044654,"word":"made slight","start":141,"end":152},{"entity_group":"LABEL_0","score":0.9589529037,"word":"head-","start":153,"end":158},{"entity_group":"LABEL_1","score":0.6008486748,"word":"way","start":158,"end":161},{"entity_group":"LABEL_0","score":0.9891819954,"word":"against it, or drove","start":162,"end":182},{"entity_group":"LABEL_1","score":0.891045928,"word":"stern","start":183,"end":188},{"entity_group":"LABEL_0","score":0.991327405,"word":"foremost before it, according as he directed his daughter by a movement of his head.","start":189,"end":273}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":6,"text":"She watched his face as earnestly as he watched the river.","model_entities":[{"entity_group":"LABEL_0","score":0.9999633431,"word":"She watched his face as earnestly as he watched the river.","start":0,"end":58}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":7,"text":"But, in the intensity of her look there was a touch of dread or horror.","model_entities":[{"entity_group":"LABEL_0","score":0.9999911785,"word":"But,","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9999376535,"word":"in","start":5,"end":7},{"entity_group":"LABEL_0","score":0.9993816018,"word":"the intensity of her look there was a","start":8,"end":45},{"entity_group":"LABEL_1","score":0.999242425,"word":"touch","start":46,"end":51},{"entity_group":"LABEL_0","score":0.9999737144,"word":"of dread or horror.","start":52,"end":71}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":8,"text":"Allied to the bottom of the river rather than the surface, by reason of the slime and ooze with which it was covered, and its sodden state, this boat and the two figures in it obviously were doing something that they often did, and were seeking what they often sought.","model_entities":[{"entity_group":"LABEL_0","score":0.9982607365,"word":"Allied to the bottom of the river rather than the surface, by reason of the slime and ooze with which it was covered, and its","start":0,"end":125},{"entity_group":"LABEL_1","score":0.9457997084,"word":"sodden","start":126,"end":132},{"entity_group":"LABEL_0","score":0.999396801,"word":"state,","start":133,"end":139},{"entity_group":"LABEL_1","score":0.8825039864,"word":"this","start":140,"end":144},{"entity_group":"LABEL_0","score":0.9998421073,"word":"boat and the two figures in it obviously were doing something that they often did, and were seeking what they often sought.","start":145,"end":268}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":9,"text":"Half savage as the man showed, with no covering on his matted head, with his brown arms bare to between the elbow and the shoulder, with the loose knot of a looser kerchief lying low on his bare breast in a wilderness of beard and whisker, with such dress as he wore seeming to be made out of the mud that begrimed his boat, still there was a business-like usage in his steady gaze.","model_entities":[{"entity_group":"LABEL_0","score":0.5706399679,"word":"Half sava","start":0,"end":9},{"entity_group":"LABEL_1","score":0.7606387734,"word":"ge","start":9,"end":11},{"entity_group":"LABEL_0","score":0.9970863461,"word":"as the man showed,","start":12,"end":30},{"entity_group":"LABEL_1","score":0.9495660663,"word":"with","start":31,"end":35},{"entity_group":"LABEL_0","score":0.9986289144,"word":"no covering on his matted head,","start":36,"end":67},{"entity_group":"LABEL_1","score":0.8535268903,"word":"with","start":68,"end":72},{"entity_group":"LABEL_0","score":0.9999365211,"word":"his brown arms","start":73,"end":87},{"entity_group":"LABEL_1","score":0.6193450689,"word":"bare","start":88,"end":92},{"entity_group":"LABEL_0","score":0.9999257922,"word":"to between the elbow and the shoulder,","start":93,"end":131},{"entity_group":"LABEL_1","score":0.7603827119,"word":"with","start":132,"end":136},{"entity_group":"LABEL_0","score":0.8203849196,"word":"the loose k","start":137,"end":148},{"entity_group":"LABEL_1","score":0.8885882497,"word":"not","start":148,"end":151},{"entity_group":"LABEL_0","score":0.9976558685,"word":"of a looser kerchief","start":152,"end":172},{"entity_group":"LABEL_1","score":0.8512206674,"word":"ly","start":173,"end":175},{"entity_group":"LABEL_0","score":0.8929716945,"word":"ing low on his bare breast in a wild","start":175,"end":211},{"entity_group":"LABEL_1","score":0.8379047513,"word":"erness","start":211,"end":217},{"entity_group":"LABEL_0","score":0.9767546058,"word":"of beard and whisker, with such dress as he wore seeming to be made out of the mud that be","start":218,"end":308},{"entity_group":"LABEL_1","score":0.5285823941,"word":"grim","start":308,"end":312},{"entity_group":"LABEL_0","score":0.9741995931,"word":"ed his boat, still there was a business-like usage","start":312,"end":362},{"entity_group":"LABEL_1","score":0.9999221563,"word":"in","start":363,"end":365},{"entity_group":"LABEL_0","score":0.9999856949,"word":"his","start":366,"end":369},{"entity_group":"LABEL_1","score":0.9962418675,"word":"steady","start":370,"end":376},{"entity_group":"LABEL_0","score":0.9998215437,"word":"gaze.","start":377,"end":382}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":10,"text":"So with every lithe action of the girl, with every turn ofmher wrist, perhaps most of all with her look of dread or horror; they were things of usage.","model_entities":[{"entity_group":"LABEL_0","score":0.999989152,"word":"So","start":0,"end":2},{"entity_group":"LABEL_1","score":0.998968482,"word":"with","start":3,"end":7},{"entity_group":"LABEL_0","score":0.9999414086,"word":"every lithe action of the girl,","start":8,"end":39},{"entity_group":"LABEL_1","score":0.9990029931,"word":"with","start":40,"end":44},{"entity_group":"LABEL_0","score":0.9999755025,"word":"every turn ofmher wrist, perhaps most of all","start":45,"end":89},{"entity_group":"LABEL_1","score":0.9993902445,"word":"with","start":90,"end":94},{"entity_group":"LABEL_0","score":0.9999725223,"word":"her look of dread or horror; they were","start":95,"end":133},{"entity_group":"LABEL_1","score":0.9995058775,"word":"things","start":134,"end":140},{"entity_group":"LABEL_0","score":0.9997424483,"word":"of usage.","start":141,"end":150}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":11,"text":"Keep her out, Lizzie.","model_entities":[{"entity_group":"LABEL_0","score":0.9999503493,"word":"Keep her out, Lizzie.","start":0,"end":21}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":12,"text":"Tide runs strong here.","model_entities":[{"entity_group":"LABEL_0","score":0.9997721314,"word":"Tide","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9995046854,"word":"runs strong","start":5,"end":16},{"entity_group":"LABEL_0","score":0.9853823185,"word":"here.","start":17,"end":22}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":13,"text":"Keep her well afore the sweep of it.","model_entities":[{"entity_group":"LABEL_0","score":0.9992075562,"word":"Keep her well","start":0,"end":13},{"entity_group":"LABEL_1","score":0.9766258001,"word":"afore","start":14,"end":19},{"entity_group":"LABEL_0","score":0.9632918835,"word":"the sweep of it.","start":20,"end":36}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":14,"text":"Trusting to the girl's skill and making no use of the rudder, he eyed the coming tide with an absorbed attention.","model_entities":[{"entity_group":"LABEL_0","score":0.999925971,"word":"Trusting","start":0,"end":8},{"entity_group":"LABEL_1","score":0.9990148544,"word":"to","start":9,"end":11},{"entity_group":"LABEL_0","score":0.9997455478,"word":"the girl's skill and","start":12,"end":32},{"entity_group":"LABEL_1","score":0.9992018342,"word":"making","start":33,"end":39},{"entity_group":"LABEL_0","score":0.9999119043,"word":"no use of the rudder, he eyed the","start":40,"end":73},{"entity_group":"LABEL_1","score":0.9549896121,"word":"coming","start":74,"end":80},{"entity_group":"LABEL_0","score":0.9885866046,"word":"tide","start":81,"end":85},{"entity_group":"LABEL_1","score":0.9996065497,"word":"with","start":86,"end":90},{"entity_group":"LABEL_0","score":0.9999934435,"word":"an","start":91,"end":93},{"entity_group":"LABEL_1","score":0.9711878896,"word":"absorbed","start":94,"end":102},{"entity_group":"LABEL_0","score":0.9999879599,"word":"attention.","start":103,"end":113}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":15,"text":"So the girl eyed him.","model_entities":[{"entity_group":"LABEL_0","score":0.999968946,"word":"So the girl eyed him.","start":0,"end":21}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":16,"text":"But, it happened now, that a slant of light from the setting sun glanced into the bottom of the boat, and, touching a rotten stain there which bore some resemblance to the outline of a muffled human form, coloured it as though with diluted blood.","model_entities":[{"entity_group":"LABEL_0","score":0.9871895313,"word":"But, it happened now, that a s","start":0,"end":30},{"entity_group":"LABEL_1","score":0.999599874,"word":"lant","start":30,"end":34},{"entity_group":"LABEL_0","score":0.9999718666,"word":"of light from the","start":35,"end":52},{"entity_group":"LABEL_1","score":0.650623858,"word":"setting","start":53,"end":60},{"entity_group":"LABEL_0","score":0.9987671375,"word":"sun glanced into the bottom of the boat, and, touching a rotten stain there which","start":61,"end":142},{"entity_group":"LABEL_1","score":0.9982861876,"word":"bore","start":143,"end":147},{"entity_group":"LABEL_0","score":0.9989091158,"word":"some resemblance","start":148,"end":164},{"entity_group":"LABEL_1","score":0.9993546605,"word":"to","start":165,"end":167},{"entity_group":"LABEL_0","score":0.9790794849,"word":"the outline of a muffled human form, coloured it as though","start":168,"end":226},{"entity_group":"LABEL_1","score":0.9431262612,"word":"with dilu","start":227,"end":236},{"entity_group":"LABEL_0","score":0.9912459254,"word":"ted","start":236,"end":239},{"entity_group":"LABEL_1","score":0.6660402417,"word":"blood","start":240,"end":245},{"entity_group":"LABEL_0","score":0.9999904633,"word":".","start":245,"end":246}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":17,"text":"This caught the girl's eye, and she shivered.","model_entities":[{"entity_group":"LABEL_1","score":0.9919036627,"word":"This caught","start":0,"end":11},{"entity_group":"LABEL_0","score":0.9998851418,"word":"the girl's eye, and she shivered.","start":12,"end":45}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":18,"text":"What ails you? said the man, immediately aware of it, though so intent on the advancing waters; I see nothing afloat.","model_entities":[{"entity_group":"LABEL_0","score":0.9999943972,"word":"What","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9824326038,"word":"ails","start":5,"end":9},{"entity_group":"LABEL_0","score":0.9995886087,"word":"you? said the man, immediately aware of it, though so intent","start":10,"end":70},{"entity_group":"LABEL_1","score":0.9993758798,"word":"on","start":71,"end":73},{"entity_group":"LABEL_0","score":0.9618297815,"word":"the advancing waters; I see nothing","start":74,"end":109},{"entity_group":"LABEL_1","score":0.8278861046,"word":"afloat","start":110,"end":116},{"entity_group":"LABEL_0","score":0.9999836683,"word":".","start":116,"end":117}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":19,"text":"The red light was gone, the shudder was gone, and his gaze, which had come back to the boat for a moment, travelled away again.","model_entities":[{"entity_group":"LABEL_0","score":0.9999885559,"word":"The red light was","start":0,"end":17},{"entity_group":"LABEL_1","score":0.9997962117,"word":"gone","start":18,"end":22},{"entity_group":"LABEL_0","score":0.9999545813,"word":", the shudder was","start":22,"end":39},{"entity_group":"LABEL_1","score":0.9928764701,"word":"gone","start":40,"end":44},{"entity_group":"LABEL_0","score":0.9999882579,"word":", and his gaze, which had","start":44,"end":69},{"entity_group":"LABEL_1","score":0.9999114871,"word":"come back","start":70,"end":79},{"entity_group":"LABEL_0","score":0.9336613417,"word":"to the boat for a moment,","start":80,"end":105},{"entity_group":"LABEL_1","score":0.9996550083,"word":"travelled","start":106,"end":115},{"entity_group":"LABEL_0","score":0.9999528527,"word":"away again.","start":116,"end":127}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":20,"text":"Wheresoever the strong tide met with an impediment, his gaze paused for an instant.","model_entities":[{"entity_group":"LABEL_0","score":0.9998532534,"word":"Wheresoever the","start":0,"end":15},{"entity_group":"LABEL_1","score":0.9988383651,"word":"strong","start":16,"end":22},{"entity_group":"LABEL_0","score":0.9942151308,"word":"tide","start":23,"end":27},{"entity_group":"LABEL_1","score":0.9990642071,"word":"met with","start":28,"end":36},{"entity_group":"LABEL_0","score":0.9760447145,"word":"an impediment, his gaze paused for an instant.","start":37,"end":83}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":21,"text":"At every mooring-chain and rope, at every stationery boat or barge that split the current into a broad-arrowhead, at the offsets from the piers of Southwark Bridge, at the paddles of the river steamboats as they beat the filthy water, at the floating logs of timber lashed together lying off certain wharves, his shining eyes darted a hungry look.","model_entities":[{"entity_group":"LABEL_0","score":0.9996237755,"word":"At every mooring-chain and rope, at every stationery boat or barge that","start":0,"end":71},{"entity_group":"LABEL_1","score":0.9979662895,"word":"split","start":72,"end":77},{"entity_group":"LABEL_0","score":0.9851088524,"word":"the current","start":78,"end":89},{"entity_group":"LABEL_1","score":0.9996179342,"word":"into","start":90,"end":94},{"entity_group":"LABEL_0","score":0.9889407754,"word":"a broad-arrow","start":95,"end":108},{"entity_group":"LABEL_1","score":0.9981610179,"word":"head","start":108,"end":112},{"entity_group":"LABEL_0","score":0.9997543693,"word":", at the offsets from the piers of Southwark Bridge, at the paddles of the river steamboats as they","start":112,"end":211},{"entity_group":"LABEL_1","score":0.9987082481,"word":"beat","start":212,"end":216},{"entity_group":"LABEL_0","score":0.9912694097,"word":"the filthy water, at the floating logs of timber lashed together lying off certain wharves, his shining eyes","start":217,"end":325},{"entity_group":"LABEL_1","score":0.9998574257,"word":"darted","start":326,"end":332},{"entity_group":"LABEL_0","score":0.9999924898,"word":"a","start":333,"end":334},{"entity_group":"LABEL_1","score":0.9663577676,"word":"hungry","start":335,"end":341},{"entity_group":"LABEL_0","score":0.9999884367,"word":"look.","start":342,"end":347}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":22,"text":"After a darkening hour or so, suddenly the rudder-lines tightened in his hold, and he steered hard towards the Surrey shore.","model_entities":[{"entity_group":"LABEL_1","score":0.9999741316,"word":"After","start":0,"end":5},{"entity_group":"LABEL_0","score":0.999994874,"word":"a","start":6,"end":7},{"entity_group":"LABEL_1","score":0.8342282176,"word":"darkening","start":8,"end":17},{"entity_group":"LABEL_0","score":0.9984603524,"word":"hour or so, suddenly the rudder-","start":18,"end":50},{"entity_group":"LABEL_1","score":0.8422752023,"word":"lines tighten","start":50,"end":63},{"entity_group":"LABEL_0","score":0.9627128243,"word":"ed","start":63,"end":65},{"entity_group":"LABEL_1","score":0.9992157221,"word":"in","start":66,"end":68},{"entity_group":"LABEL_0","score":0.9771080017,"word":"his hold, and he steered hard towards the Surrey shore.","start":69,"end":124}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":23,"text":"Always watching his face, the girl instantly answered to the action in her sculling; presently the boat swung round, quivered as from a sudden jerk, and the upper half of the man was stretched out over the stern.","model_entities":[{"entity_group":"LABEL_0","score":0.9998826981,"word":"Always watching his face, the girl instantly answered","start":0,"end":53},{"entity_group":"LABEL_1","score":0.9996951818,"word":"to","start":54,"end":56},{"entity_group":"LABEL_0","score":0.9987894297,"word":"the action","start":57,"end":67},{"entity_group":"LABEL_1","score":0.998069346,"word":"in","start":68,"end":70},{"entity_group":"LABEL_0","score":0.9848896861,"word":"her sculling; presently the boat swung round, quivered as","start":71,"end":128},{"entity_group":"LABEL_1","score":0.9967464209,"word":"from","start":129,"end":133},{"entity_group":"LABEL_0","score":0.9811259508,"word":"a sudden je","start":134,"end":145},{"entity_group":"LABEL_1","score":0.7734925151,"word":"rk","start":145,"end":147},{"entity_group":"LABEL_0","score":0.9850108027,"word":", and the upper half of the man was stretched out over the stern.","start":147,"end":212}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":24,"text":"The girl pulled the hood of a cloak she wore, over her head and over her face, and, looking backward so that the front folds of this hood were turned down the river, kept the boat in that direction going before the tide.","model_entities":[{"entity_group":"LABEL_0","score":0.999285996,"word":"The girl pulled the hood of a cloak she wore, over her head and over her face, and, looking backward so that the front folds of","start":0,"end":127},{"entity_group":"LABEL_1","score":0.9927192926,"word":"this","start":128,"end":132},{"entity_group":"LABEL_0","score":0.999048233,"word":"hood were turned","start":133,"end":149},{"entity_group":"LABEL_1","score":0.9279803038,"word":"down","start":150,"end":154},{"entity_group":"LABEL_0","score":0.9999755025,"word":"the river,","start":155,"end":165},{"entity_group":"LABEL_1","score":0.8423002362,"word":"kept","start":166,"end":170},{"entity_group":"LABEL_0","score":0.9999654293,"word":"the boat","start":171,"end":179},{"entity_group":"LABEL_1","score":0.9998465776,"word":"in that","start":180,"end":187},{"entity_group":"LABEL_0","score":0.9999206066,"word":"direction","start":188,"end":197},{"entity_group":"LABEL_1","score":0.9815352559,"word":"going before","start":198,"end":210},{"entity_group":"LABEL_0","score":0.9969285727,"word":"the tide.","start":211,"end":220}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":25,"text":"Until now, the boat had barely held her own, and had hovered about one spot; but now, the banks changed swiftly, and the deepening shadows and the kindling lights of London Bridge were passed, and the tiers ofshipping lay on either hand.","model_entities":[{"entity_group":"LABEL_1","score":0.9919910431,"word":"Until","start":0,"end":5},{"entity_group":"LABEL_0","score":0.9999403358,"word":"now, the boat had barely","start":6,"end":30},{"entity_group":"LABEL_1","score":0.9994378686,"word":"held","start":31,"end":35},{"entity_group":"LABEL_0","score":0.9785921574,"word":"her own, and had hovered about one spot; but now, the banks","start":36,"end":95},{"entity_group":"LABEL_1","score":0.9590414762,"word":"changed","start":96,"end":103},{"entity_group":"LABEL_0","score":0.9525411725,"word":"swiftly, and the de","start":104,"end":123},{"entity_group":"LABEL_1","score":0.7825092077,"word":"epe","start":123,"end":126},{"entity_group":"LABEL_0","score":0.9895824194,"word":"ning shadows and the kindling lights of London Bridge were passed, and the tiers ofshipping","start":126,"end":217},{"entity_group":"LABEL_1","score":0.9658417106,"word":"lay on","start":218,"end":224},{"entity_group":"LABEL_0","score":0.9997710586,"word":"either","start":225,"end":231},{"entity_group":"LABEL_1","score":0.9992771745,"word":"hand","start":232,"end":236},{"entity_group":"LABEL_0","score":0.999989748,"word":".","start":236,"end":237}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":26,"text":"It was not until now that the upper half of the man came back into the boat.","model_entities":[{"entity_group":"LABEL_0","score":0.999994576,"word":"It was not","start":0,"end":10},{"entity_group":"LABEL_1","score":0.9632963538,"word":"until","start":11,"end":16},{"entity_group":"LABEL_0","score":0.9999721646,"word":"now that the","start":17,"end":29},{"entity_group":"LABEL_1","score":0.9259040952,"word":"upp","start":30,"end":33},{"entity_group":"LABEL_0","score":0.9966403842,"word":"er half of the man came back into the boat.","start":33,"end":76}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":27,"text":"His arms were wet and dirty, and he washed them over the side.","model_entities":[{"entity_group":"LABEL_0","score":0.999320507,"word":"His arms were wet and dirty, and he washed them over the side.","start":0,"end":62}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":28,"text":"In his right hand he held something, and he washed that in the river too.","model_entities":[{"entity_group":"LABEL_0","score":0.9988980889,"word":"In his right hand he held something, and he washed that in the river too.","start":0,"end":73}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":29,"text":"It was money.","model_entities":[{"entity_group":"LABEL_0","score":0.9999881983,"word":"It was money.","start":0,"end":13}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":30,"text":"He chinked it once, and he blew upon it once, and he spat upon it once,--for luck, he hoarsely said--before he put it in his pocket.","model_entities":[{"entity_group":"LABEL_0","score":0.9998562336,"word":"He chinked it once, and he","start":0,"end":26},{"entity_group":"LABEL_1","score":0.6663212776,"word":"ble","start":27,"end":30},{"entity_group":"LABEL_0","score":0.9996722341,"word":"w upon it once, and he","start":30,"end":52},{"entity_group":"LABEL_1","score":0.9709920287,"word":"spa","start":53,"end":56},{"entity_group":"LABEL_0","score":0.9717538953,"word":"t upon it once,--for luck, he","start":56,"end":85},{"entity_group":"LABEL_1","score":0.9834651947,"word":"hoarse","start":86,"end":92},{"entity_group":"LABEL_0","score":0.9999819994,"word":"ly said--before he put it in his pocket.","start":92,"end":132}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":31,"text":"Lizzie! The girl turned her face towards him with a start, and rowed in silence.","model_entities":[{"entity_group":"LABEL_0","score":0.9999588132,"word":"Lizzie! The girl turned her face towards him","start":0,"end":44},{"entity_group":"LABEL_1","score":0.9999549389,"word":"with","start":45,"end":49},{"entity_group":"LABEL_0","score":0.9994724393,"word":"a start, and rowed","start":50,"end":68},{"entity_group":"LABEL_1","score":0.9999687672,"word":"in","start":69,"end":71},{"entity_group":"LABEL_0","score":0.9999920726,"word":"silence.","start":72,"end":80}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":32,"text":"Her face was very pale.","model_entities":[{"entity_group":"LABEL_0","score":0.9999582171,"word":"Her face was very pale.","start":0,"end":23}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":33,"text":"He was a hook-nosed man, and with that and his bright eyes and his ruffled head, bore a certain likeness to a rousedbird of prey.","model_entities":[{"entity_group":"LABEL_0","score":0.9999954104,"word":"He was a","start":0,"end":8},{"entity_group":"LABEL_1","score":0.9541964531,"word":"hook","start":9,"end":13},{"entity_group":"LABEL_0","score":0.9756385088,"word":"-","start":13,"end":14},{"entity_group":"LABEL_1","score":0.9706454277,"word":"nos","start":14,"end":17},{"entity_group":"LABEL_0","score":0.9999575615,"word":"ed man, and","start":17,"end":28},{"entity_group":"LABEL_1","score":0.9997806549,"word":"with that","start":29,"end":38},{"entity_group":"LABEL_0","score":0.9794229865,"word":"and his bright eyes and his ruffled head,","start":39,"end":80},{"entity_group":"LABEL_1","score":0.9998654127,"word":"bore","start":81,"end":85},{"entity_group":"LABEL_0","score":0.9993983507,"word":"a certain likeness","start":86,"end":104},{"entity_group":"LABEL_1","score":0.9995265007,"word":"to","start":105,"end":107},{"entity_group":"LABEL_0","score":0.9993566275,"word":"a rousedbird of","start":108,"end":123},{"entity_group":"LABEL_1","score":0.6994546056,"word":"pre","start":124,"end":127},{"entity_group":"LABEL_0","score":0.9793643951,"word":"y.","start":127,"end":129}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":34,"text":"Take that thing off your face.","model_entities":[{"entity_group":"LABEL_0","score":0.992153585,"word":"Take","start":0,"end":4},{"entity_group":"LABEL_1","score":0.8105279803,"word":"that","start":5,"end":9},{"entity_group":"LABEL_0","score":0.999715209,"word":"thing off your face.","start":10,"end":30}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":35,"text":"She put it back.","model_entities":[{"entity_group":"LABEL_0","score":0.9999664426,"word":"She put it back.","start":0,"end":16}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":36,"text":"Here! and give me hold of the sculls.","model_entities":[{"entity_group":"LABEL_0","score":0.9999449849,"word":"Here! and","start":0,"end":9},{"entity_group":"LABEL_1","score":0.9794451594,"word":"give","start":10,"end":14},{"entity_group":"LABEL_0","score":0.9999793768,"word":"me","start":15,"end":17},{"entity_group":"LABEL_1","score":0.9737129211,"word":"hold","start":18,"end":22},{"entity_group":"LABEL_0","score":0.9999524951,"word":"of the sculls.","start":23,"end":37}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":37,"text":"I'll take the rest of the spell.","model_entities":[{"entity_group":"LABEL_0","score":0.9999434352,"word":"I'll","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9992036223,"word":"take","start":5,"end":9},{"entity_group":"LABEL_0","score":0.9201312661,"word":"the rest of the spell.","start":10,"end":32}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":38,"text":"No, no, father!","model_entities":[{"entity_group":"LABEL_0","score":0.9999797344,"word":"No, no, father!","start":0,"end":15}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":39,"text":"No!","model_entities":[{"entity_group":"LABEL_0","score":0.9999912977,"word":"No!","start":0,"end":3}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":40,"text":"I can't indeed.","model_entities":[{"entity_group":"LABEL_0","score":0.9999864697,"word":"I can't indeed.","start":0,"end":15}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":41,"text":"Father!--I cannot sit so near it! He was moving towards her to change places, but her terrified expostulation stopped him and he resumed his seat.","model_entities":[{"entity_group":"LABEL_0","score":0.9951737523,"word":"Father!--I cannot sit so near it! He was moving towards her to change places, but her terr","start":0,"end":90},{"entity_group":"LABEL_1","score":0.5814863443,"word":"ified","start":90,"end":95},{"entity_group":"LABEL_0","score":0.9623289108,"word":"expostulation stopped him and he resumed his seat.","start":96,"end":146}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":42,"text":"What hurt can it do you?","model_entities":[{"entity_group":"LABEL_0","score":0.9999934435,"word":"What","start":0,"end":4},{"entity_group":"LABEL_1","score":0.6864374876,"word":"hurt","start":5,"end":9},{"entity_group":"LABEL_0","score":0.9999899864,"word":"can it do you?","start":10,"end":24}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":43,"text":"None, none.","model_entities":[{"entity_group":"LABEL_0","score":0.9999940991,"word":"None, none.","start":0,"end":11}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":44,"text":"But I cannot bear it.","model_entities":[{"entity_group":"LABEL_0","score":0.999994278,"word":"But I cannot","start":0,"end":12},{"entity_group":"LABEL_1","score":0.9990689158,"word":"bear","start":13,"end":17},{"entity_group":"LABEL_0","score":0.9999796152,"word":"it.","start":18,"end":21}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":45,"text":"It's my belief you hate the sight of the very river.","model_entities":[{"entity_group":"LABEL_0","score":0.9999808669,"word":"It's my belief you hate the sight of the very river.","start":0,"end":52}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":46,"text":"I--I do not like it, father.","model_entities":[{"entity_group":"LABEL_0","score":0.9999887347,"word":"I--I do not like it, father.","start":0,"end":28}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":47,"text":"As if it wasn't your living!","model_entities":[{"entity_group":"LABEL_0","score":0.9998590946,"word":"As if it wasn't your living!","start":0,"end":28}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":48,"text":"As if it wasn't meat and drink to you!","model_entities":[{"entity_group":"LABEL_0","score":0.9999806285,"word":"As if it wasn't meat and drink","start":0,"end":30},{"entity_group":"LABEL_1","score":0.9980333447,"word":"to","start":31,"end":33},{"entity_group":"LABEL_0","score":0.9999602437,"word":"you!","start":34,"end":38}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":49,"text":"At these latter words the girl shivered again, and for a moment paused in her rowing, seeming to turn deadly faint.","model_entities":[{"entity_group":"LABEL_1","score":0.9993066788,"word":"At these","start":0,"end":8},{"entity_group":"LABEL_0","score":0.9993113279,"word":"latter words the girl shivered again, and for a moment paused","start":9,"end":70},{"entity_group":"LABEL_1","score":0.999116838,"word":"in","start":71,"end":73},{"entity_group":"LABEL_0","score":0.9921150208,"word":"her rowing, seeming to turn deadly faint.","start":74,"end":115}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":50,"text":"It escaped his attention, for he was glancing over the stern at something the boat had in tow.","model_entities":[{"entity_group":"LABEL_0","score":0.999992609,"word":"It","start":0,"end":2},{"entity_group":"LABEL_1","score":0.8867650032,"word":"escaped","start":3,"end":10},{"entity_group":"LABEL_0","score":0.9996498227,"word":"his attention, for he was glancing over the stern","start":11,"end":60},{"entity_group":"LABEL_1","score":0.9865440726,"word":"at","start":61,"end":63},{"entity_group":"LABEL_0","score":0.9999790192,"word":"something the boat","start":64,"end":82},{"entity_group":"LABEL_1","score":0.9486194849,"word":"had in tow","start":83,"end":93},{"entity_group":"LABEL_0","score":0.9999884367,"word":".","start":93,"end":94}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":51,"text":"How can you be so thankless to your best friend, Lizzie?","model_entities":[{"entity_group":"LABEL_0","score":0.9999822974,"word":"How can you be so thankless","start":0,"end":27},{"entity_group":"LABEL_1","score":0.9992063642,"word":"to","start":28,"end":30},{"entity_group":"LABEL_0","score":0.999990344,"word":"your best friend, Lizzie?","start":31,"end":56}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":52,"text":"The very fire that warmed you when you were a babby, was picked out of the river alongside the coal barges.","model_entities":[{"entity_group":"LABEL_0","score":0.9575586319,"word":"The very fire that","start":0,"end":18},{"entity_group":"LABEL_1","score":0.8353432417,"word":"warmed","start":19,"end":25},{"entity_group":"LABEL_0","score":0.9976938367,"word":"you when you were a babby, was picked out of the river alongside the coal barges.","start":26,"end":107}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":53,"text":"The very basket that you slept in, the tide washed ashore.","model_entities":[{"entity_group":"LABEL_0","score":0.9997803569,"word":"The very basket that you slept in, the","start":0,"end":38},{"entity_group":"LABEL_1","score":0.5351992249,"word":"tid","start":39,"end":42},{"entity_group":"LABEL_0","score":0.9959106445,"word":"e","start":42,"end":43},{"entity_group":"LABEL_1","score":0.990134418,"word":"washed","start":44,"end":50},{"entity_group":"LABEL_0","score":0.99995929,"word":"ashore.","start":51,"end":58}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":54,"text":"The very rockers that I put it upon to make a cradle of it, I cut out of a piece of wood that drifted from some ship or another.","model_entities":[{"entity_group":"LABEL_0","score":0.9594957232,"word":"The very rockers that I put it upon to make a","start":0,"end":45},{"entity_group":"LABEL_1","score":0.8018519878,"word":"c","start":46,"end":47},{"entity_group":"LABEL_0","score":0.9539196491,"word":"radle of it, I cut out of a piece of wood that drifted from some ship or another.","start":47,"end":128}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":55,"text":"Lizzie took her right hand from the scull it held, and touched her lips with it, and for a moment held it out lovingly towards him: then,without speaking, she resumed her rowing, as another boat of similar appearance, though in rather better trim, came out from a dark place and dropped softly alongside.","model_entities":[{"entity_group":"LABEL_0","score":0.9922167659,"word":"Lizzie took her right hand from the scull it held, and touched her lips with it, and for a moment held it out lovingly towards him: then,","start":0,"end":137},{"entity_group":"LABEL_1","score":0.9898961782,"word":"with","start":137,"end":141},{"entity_group":"LABEL_0","score":0.988627851,"word":"out speaking, she resumed her rowing, as another boat of similar appearance, though in rather better trim, came out from a dark place and dropped softly alongside.","start":141,"end":304}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":56,"text":"In luck again, Gaffer? said a man with a squinting leer, who sculledher and who was alone, I know'd you was in luck again, by your wake as you come down.","model_entities":[{"entity_group":"LABEL_1","score":0.9999451637,"word":"In","start":0,"end":2},{"entity_group":"LABEL_0","score":0.999984026,"word":"luck again, Gaffer? said a man","start":3,"end":33},{"entity_group":"LABEL_1","score":0.6034665704,"word":"with","start":34,"end":38},{"entity_group":"LABEL_0","score":0.9998817444,"word":"a squinting leer, who sculledher and who was alone, I know'd you was","start":39,"end":107},{"entity_group":"LABEL_1","score":0.9999529123,"word":"in","start":108,"end":110},{"entity_group":"LABEL_0","score":0.999976933,"word":"luck again,","start":111,"end":122},{"entity_group":"LABEL_1","score":0.9998933077,"word":"by","start":123,"end":125},{"entity_group":"LABEL_0","score":0.9952684045,"word":"your wake as you come down.","start":126,"end":153}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":57,"text":"Ah! replied the other, drily.","model_entities":[{"entity_group":"LABEL_0","score":0.9996446967,"word":"Ah! replied the other, drily.","start":0,"end":29}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":58,"text":"So you're out, are you?","model_entities":[{"entity_group":"LABEL_0","score":0.9999382496,"word":"So you're out, are you?","start":0,"end":23}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":59,"text":"Yes, pardner.","model_entities":[{"entity_group":"LABEL_0","score":0.9999679923,"word":"Yes, pardner.","start":0,"end":13}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":60,"text":"There was now a tender yellow moonlight on the river, and the new comer,keeping half his boat's length astern of the other boat looked hard at its track.","model_entities":[{"entity_group":"LABEL_0","score":0.9999428391,"word":"There was now a","start":0,"end":15},{"entity_group":"LABEL_1","score":0.9998599291,"word":"tender","start":16,"end":22},{"entity_group":"LABEL_0","score":0.9993664622,"word":"yellow moonlight on the river, and the new comer,","start":23,"end":72},{"entity_group":"LABEL_1","score":0.7891869545,"word":"keeping","start":72,"end":79},{"entity_group":"LABEL_0","score":0.9869759083,"word":"half his boat's length astern of the other boat looked hard at its track.","start":80,"end":153}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":61,"text":"I says to myself, he went on, directly you hove in view, yonder's Gaffer, and in luck again, by George if he ain't!","model_entities":[{"entity_group":"LABEL_0","score":0.9999875426,"word":"I says","start":0,"end":6},{"entity_group":"LABEL_1","score":0.999915719,"word":"to","start":7,"end":9},{"entity_group":"LABEL_0","score":0.9905837774,"word":"myself, he went on, directly you hove in view, yonder's Gaffer, and","start":10,"end":77},{"entity_group":"LABEL_1","score":0.9999396801,"word":"in","start":78,"end":80},{"entity_group":"LABEL_0","score":0.9999329448,"word":"luck again, by George if he ain't!","start":81,"end":115}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":62,"text":"Scull it is, pardner--don't fret yourself--I didn't touch him.","model_entities":[{"entity_group":"LABEL_0","score":0.9978160858,"word":"Scull it is, pardner--don't fret yourself--I didn't touch him.","start":0,"end":62}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":63,"text":"This was in answer to a quick impatient movement on the part of Gaffer: the speaker at the same time unshipping his scull on that side, and laying his hand on the gunwale of Gaffer's boat and holding to it.","model_entities":[{"entity_group":"LABEL_1","score":0.9993388057,"word":"This","start":0,"end":4},{"entity_group":"LABEL_0","score":0.9568313956,"word":"was in answer to a quick impatient movement on the part of Gaffer: the speaker","start":5,"end":83},{"entity_group":"LABEL_1","score":0.9946513772,"word":"at","start":84,"end":86},{"entity_group":"LABEL_0","score":0.9842936993,"word":"the same time unshipping his sc","start":87,"end":118},{"entity_group":"LABEL_1","score":0.530390799,"word":"ull","start":118,"end":121},{"entity_group":"LABEL_0","score":0.999863863,"word":"on","start":122,"end":124},{"entity_group":"LABEL_1","score":0.9906563163,"word":"that","start":125,"end":129},{"entity_group":"LABEL_0","score":0.99804914,"word":"side, and laying his hand on the gunwale of Gaffer's boat and holding to it.","start":130,"end":206}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":64,"text":"He's had touches enough not to want no more, as well as I make him out, Gaffer!","model_entities":[{"entity_group":"LABEL_0","score":0.9999721646,"word":"He's","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9995348454,"word":"had","start":5,"end":8},{"entity_group":"LABEL_0","score":0.9952006936,"word":"touches enough not to want no more, as well as I","start":9,"end":57},{"entity_group":"LABEL_1","score":0.9593608379,"word":"make","start":58,"end":62},{"entity_group":"LABEL_0","score":0.9999958277,"word":"him","start":63,"end":66},{"entity_group":"LABEL_1","score":0.7597562671,"word":"out","start":67,"end":70},{"entity_group":"LABEL_0","score":0.9999905825,"word":", Gaffer!","start":70,"end":79}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":65,"text":"Been a knocking about with a pretty many tides, ain't he pardner?","model_entities":[{"entity_group":"LABEL_0","score":0.9999926686,"word":"Been a","start":0,"end":6},{"entity_group":"LABEL_1","score":0.9933210015,"word":"knock","start":7,"end":12},{"entity_group":"LABEL_0","score":0.6335058212,"word":"ing","start":12,"end":15},{"entity_group":"LABEL_1","score":0.7493195534,"word":"about with","start":16,"end":26},{"entity_group":"LABEL_0","score":0.9925879836,"word":"a pretty many tides, ain't he pardner?","start":27,"end":65}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":66,"text":"Such is my out-of-luck ways, you see!","model_entities":[{"entity_group":"LABEL_0","score":0.9824112058,"word":"Such is my out-","start":0,"end":15},{"entity_group":"LABEL_1","score":0.9794508815,"word":"of","start":15,"end":17},{"entity_group":"LABEL_0","score":0.9938715696,"word":"-luck","start":17,"end":22},{"entity_group":"LABEL_1","score":0.9957925081,"word":"ways","start":23,"end":27},{"entity_group":"LABEL_0","score":0.9999679327,"word":", you","start":27,"end":32},{"entity_group":"LABEL_1","score":0.9995292425,"word":"see","start":33,"end":36},{"entity_group":"LABEL_0","score":0.9999763966,"word":"!","start":36,"end":37}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":67,"text":"He must have passed me when he went up last time, for I was on the lookout below bridge here.","model_entities":[{"entity_group":"LABEL_0","score":0.9999957681,"word":"He must have","start":0,"end":12},{"entity_group":"LABEL_1","score":0.5729134083,"word":"passed","start":13,"end":19},{"entity_group":"LABEL_0","score":0.9997290969,"word":"me when he went up last time, for I was","start":20,"end":59},{"entity_group":"LABEL_1","score":0.9962750673,"word":"on","start":60,"end":62},{"entity_group":"LABEL_0","score":0.9998529553,"word":"the lookout below bridge here.","start":63,"end":93}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":68,"text":"I a'most think you're like the wulturs, pardner, and scent em out.","model_entities":[{"entity_group":"LABEL_0","score":0.9986022115,"word":"I a'most think you're like the wulturs, pardner, and scent em","start":0,"end":61},{"entity_group":"LABEL_1","score":0.9591851234,"word":"out","start":62,"end":65},{"entity_group":"LABEL_0","score":0.9999933243,"word":".","start":65,"end":66}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":69,"text":"He spoke in a dropped voice, and with more than one glance at Lizzie who had pulled on her hood again.","model_entities":[{"entity_group":"LABEL_0","score":0.9999938607,"word":"He spoke","start":0,"end":8},{"entity_group":"LABEL_1","score":0.999761641,"word":"in","start":9,"end":11},{"entity_group":"LABEL_0","score":0.9999961853,"word":"a","start":12,"end":13},{"entity_group":"LABEL_1","score":0.9346973896,"word":"drop","start":14,"end":18},{"entity_group":"LABEL_0","score":0.8831165433,"word":"ped voice, and","start":18,"end":32},{"entity_group":"LABEL_1","score":0.9993718266,"word":"with","start":33,"end":37},{"entity_group":"LABEL_0","score":0.9999181032,"word":"more than one glance","start":38,"end":58},{"entity_group":"LABEL_1","score":0.9986118078,"word":"at","start":59,"end":61},{"entity_group":"LABEL_0","score":0.9997060299,"word":"Lizzie who had pulled on her hood again.","start":62,"end":102}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":70,"text":"Both men then looked with a weird unholy interest in the wake of Gaffer's boat.","model_entities":[{"entity_group":"LABEL_0","score":0.9998464584,"word":"Both men then looked","start":0,"end":20},{"entity_group":"LABEL_1","score":0.9998879433,"word":"with","start":21,"end":25},{"entity_group":"LABEL_0","score":0.9783604741,"word":"a weird unholy interest","start":26,"end":49},{"entity_group":"LABEL_1","score":0.9926155806,"word":"in","start":50,"end":52},{"entity_group":"LABEL_0","score":0.9582899809,"word":"the wake of Gaffer's boat.","start":53,"end":79}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":71,"text":"Easy does it, betwixt us.","model_entities":[{"entity_group":"LABEL_0","score":0.974345088,"word":"Easy does it, betwixt us.","start":0,"end":25}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":72,"text":"Shall I take him aboard, pardner?","model_entities":[{"entity_group":"LABEL_0","score":0.9994053245,"word":"Shall I take him aboard, pardner?","start":0,"end":33}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":73,"text":"No, said the other.","model_entities":[{"entity_group":"LABEL_0","score":0.9999881387,"word":"No, said the other.","start":0,"end":19}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":74,"text":"In so surly a tone that the man, after a blank stare, acknowledged it with the retort:--Arn't been eating nothing as has disagreed with you, have you,pardner?","model_entities":[{"entity_group":"LABEL_1","score":0.9999049902,"word":"In","start":0,"end":2},{"entity_group":"LABEL_0","score":0.9999958277,"word":"so","start":3,"end":5},{"entity_group":"LABEL_1","score":0.7695469856,"word":"surly","start":6,"end":11},{"entity_group":"LABEL_0","score":0.9999665618,"word":"a tone that the man,","start":12,"end":32},{"entity_group":"LABEL_1","score":0.9999765158,"word":"after","start":33,"end":38},{"entity_group":"LABEL_0","score":0.9999949932,"word":"a","start":39,"end":40},{"entity_group":"LABEL_1","score":0.9510263801,"word":"blank","start":41,"end":46},{"entity_group":"LABEL_0","score":0.9998607635,"word":"stare, acknowledged it","start":47,"end":69},{"entity_group":"LABEL_1","score":0.9999331236,"word":"with","start":70,"end":74},{"entity_group":"LABEL_0","score":0.9999543428,"word":"the retort:--Arn't been eating nothing as has disagreed","start":75,"end":130},{"entity_group":"LABEL_1","score":0.999917984,"word":"with","start":131,"end":135},{"entity_group":"LABEL_0","score":0.9999428988,"word":"you, have you,pardner?","start":136,"end":158}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":75,"text":"Why, yes, I have, said Gaffer.","model_entities":[{"entity_group":"LABEL_0","score":0.9999927282,"word":"Why, yes, I have, said Gaffer.","start":0,"end":30}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":76,"text":"I have been swallowing too much of that word, Pardner.","model_entities":[{"entity_group":"LABEL_0","score":0.9941436052,"word":"I have been swallowing too much of","start":0,"end":34},{"entity_group":"LABEL_1","score":0.9994968176,"word":"that","start":35,"end":39},{"entity_group":"LABEL_0","score":0.9999874234,"word":"word, Pardner.","start":40,"end":54}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":77,"text":"I am no pardner of yours.","model_entities":[{"entity_group":"LABEL_0","score":0.9999067187,"word":"I am no pardner of yours.","start":0,"end":25}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":78,"text":"Since when was you no pardner of mine, Gaffer Hexam Esquire?","model_entities":[{"entity_group":"LABEL_0","score":0.9999293089,"word":"Since when was you no pardner of mine, Gaffer Hexam Esquire?","start":0,"end":60}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":79,"text":"Since you was accused of robbing a man.","model_entities":[{"entity_group":"LABEL_0","score":0.9997130036,"word":"Since you was accused of robbing a man.","start":0,"end":39}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":80,"text":"Accused of robbing a live man! said Gaffer, with great indignation.","model_entities":[{"entity_group":"LABEL_0","score":0.9704986215,"word":"Accused of robbing a live man! said Gaffer,","start":0,"end":43},{"entity_group":"LABEL_1","score":0.9996376038,"word":"with great","start":44,"end":54},{"entity_group":"LABEL_0","score":0.9999834895,"word":"indignation.","start":55,"end":67}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":81,"text":"And what if I had been accused of robbing a dead man, Gaffer?","model_entities":[{"entity_group":"LABEL_0","score":0.9999460578,"word":"And what if I had been accused of robbing a dead man, Gaffer?","start":0,"end":61}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":82,"text":"You COULDN'T do it.","model_entities":[{"entity_group":"LABEL_0","score":0.9999444485,"word":"You COULDN'T do it.","start":0,"end":19}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":83,"text":"Couldn't you, Gaffer?","model_entities":[{"entity_group":"LABEL_0","score":0.9999724627,"word":"Couldn't you, Gaffer?","start":0,"end":21}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":84,"text":"No.","model_entities":[{"entity_group":"LABEL_0","score":0.9999914169,"word":"No.","start":0,"end":3}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":85,"text":"Has a dead man any use for money?","model_entities":[{"entity_group":"LABEL_1","score":0.9920977354,"word":"Has","start":0,"end":3},{"entity_group":"LABEL_0","score":0.9995075464,"word":"a dead man any use for money?","start":4,"end":33}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":86,"text":"Is it possible for a dead man to have money?","model_entities":[{"entity_group":"LABEL_0","score":0.9997225404,"word":"Is it possible for a dead man to have money?","start":0,"end":44}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":87,"text":"What world does a dead man belong to?","model_entities":[{"entity_group":"LABEL_0","score":0.9999870062,"word":"What","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9699470997,"word":"world","start":5,"end":10},{"entity_group":"LABEL_0","score":0.9999741316,"word":"does a dead man","start":11,"end":26},{"entity_group":"LABEL_1","score":0.9980459809,"word":"belong to","start":27,"end":36},{"entity_group":"LABEL_0","score":0.9999821186,"word":"?","start":36,"end":37}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":88,"text":"Tother world.","model_entities":[{"entity_group":"LABEL_0","score":0.999502182,"word":"Tother world.","start":0,"end":13}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":89,"text":"What world does money belong to?","model_entities":[{"entity_group":"LABEL_0","score":0.9999814034,"word":"What","start":0,"end":4},{"entity_group":"LABEL_1","score":0.9980111122,"word":"world","start":5,"end":10},{"entity_group":"LABEL_0","score":0.9999704361,"word":"does money","start":11,"end":21},{"entity_group":"LABEL_1","score":0.9994914532,"word":"belong to","start":22,"end":31},{"entity_group":"LABEL_0","score":0.9999558926,"word":"?","start":31,"end":32}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":90,"text":"This world.","model_entities":[{"entity_group":"LABEL_1","score":0.8930712342,"word":"This","start":0,"end":4},{"entity_group":"LABEL_0","score":0.9891294241,"word":"world.","start":5,"end":11}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":91,"text":"How can money be a corpse's?","model_entities":[{"entity_group":"LABEL_0","score":0.9998866916,"word":"How can money be a","start":0,"end":18},{"entity_group":"LABEL_1","score":0.9888387918,"word":"corpse","start":19,"end":25},{"entity_group":"LABEL_0","score":0.995382309,"word":"'s?","start":25,"end":28}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":92,"text":"Can a corpse own it, want it, spend it, claim it, miss it?","model_entities":[{"entity_group":"LABEL_0","score":0.9999260902,"word":"Can a corpse","start":0,"end":12},{"entity_group":"LABEL_1","score":0.9990931749,"word":"own","start":13,"end":16},{"entity_group":"LABEL_0","score":0.9939799905,"word":"it, want it, spend it, claim it,","start":17,"end":49},{"entity_group":"LABEL_1","score":0.9870420694,"word":"miss","start":50,"end":54},{"entity_group":"LABEL_0","score":0.9999881983,"word":"it?","start":55,"end":58}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":93,"text":"Don't try to go confounding the rights and wrongs of things in that way.","model_entities":[{"entity_group":"LABEL_0","score":0.9999347925,"word":"Don't try to","start":0,"end":12},{"entity_group":"LABEL_1","score":0.999427855,"word":"go","start":13,"end":15},{"entity_group":"LABEL_0","score":0.9873738289,"word":"confounding the","start":16,"end":31},{"entity_group":"LABEL_1","score":0.5384414196,"word":"rights","start":32,"end":38},{"entity_group":"LABEL_0","score":0.9989132881,"word":"and wrong","start":39,"end":48},{"entity_group":"LABEL_1","score":0.5251028538,"word":"s","start":48,"end":49},{"entity_group":"LABEL_0","score":0.9998871088,"word":"of","start":50,"end":52},{"entity_group":"LABEL_1","score":0.9987432361,"word":"things in that way","start":53,"end":71},{"entity_group":"LABEL_0","score":0.9999654293,"word":".","start":71,"end":72}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":94,"text":"But it's worthy of the sneaking spirit that robs a live man.","model_entities":[{"entity_group":"LABEL_0","score":0.9998908043,"word":"But it's","start":0,"end":8},{"entity_group":"LABEL_1","score":0.9775762558,"word":"worthy","start":9,"end":15},{"entity_group":"LABEL_0","score":0.9998281598,"word":"of the","start":16,"end":22},{"entity_group":"LABEL_1","score":0.9948695898,"word":"sneaking spirit","start":23,"end":38},{"entity_group":"LABEL_0","score":0.999968648,"word":"that","start":39,"end":43},{"entity_group":"LABEL_1","score":0.9402063489,"word":"robs","start":44,"end":48},{"entity_group":"LABEL_0","score":0.9899311066,"word":"a live man.","start":49,"end":60}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":95,"text":"I'll tell you what it is--.","model_entities":[{"entity_group":"LABEL_0","score":0.9999899268,"word":"I'll tell you what it is--.","start":0,"end":27}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":96,"text":"No you won't.","model_entities":[{"entity_group":"LABEL_0","score":0.9999858737,"word":"No you won't.","start":0,"end":13}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":97,"text":"I'll tell you what it is.","model_entities":[{"entity_group":"LABEL_0","score":0.9999898076,"word":"I'll tell you what it is.","start":0,"end":25}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":98,"text":"You got off with a short time of it for putting your hand in the pocket of a sailor, a live sailor.","model_entities":[{"entity_group":"LABEL_0","score":0.9996388555,"word":"You got off","start":0,"end":11},{"entity_group":"LABEL_1","score":0.9999006987,"word":"with","start":12,"end":16},{"entity_group":"LABEL_0","score":0.9999934435,"word":"a","start":17,"end":18},{"entity_group":"LABEL_1","score":0.9998991489,"word":"short","start":19,"end":24},{"entity_group":"LABEL_0","score":0.9994724989,"word":"time of it for putting your hand in the pocket of a sailor, a live sailor.","start":25,"end":99}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":99,"text":"Make the most of it and think yourself lucky, but don't think after that to come over ME with your pardners.","model_entities":[{"entity_group":"LABEL_1","score":0.9999165535,"word":"Make","start":0,"end":4},{"entity_group":"LABEL_0","score":0.9770547748,"word":"the most of it and think yourself lucky, but don't think","start":5,"end":61},{"entity_group":"LABEL_1","score":0.9998071194,"word":"after that","start":62,"end":72},{"entity_group":"LABEL_0","score":0.9998455644,"word":"to come","start":73,"end":80},{"entity_group":"LABEL_1","score":0.7394515276,"word":"over","start":81,"end":85},{"entity_group":"LABEL_0","score":0.9991265535,"word":"ME with your pardners.","start":86,"end":108}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":100,"text":"We have worked together in time past, but we work together no more in time present nor yet future.","model_entities":[{"entity_group":"LABEL_0","score":0.9999883771,"word":"We have worked together","start":0,"end":23},{"entity_group":"LABEL_1","score":0.9999562502,"word":"in","start":24,"end":26},{"entity_group":"LABEL_0","score":0.9999848604,"word":"time past, but we work together no more","start":27,"end":66},{"entity_group":"LABEL_1","score":0.9999357462,"word":"in","start":67,"end":69},{"entity_group":"LABEL_0","score":0.9999864101,"word":"time present nor yet future.","start":70,"end":98}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":101,"text":"Let go.","model_entities":[{"entity_group":"LABEL_0","score":0.99945575,"word":"Let","start":0,"end":3},{"entity_group":"LABEL_1","score":0.9990959167,"word":"go","start":4,"end":6},{"entity_group":"LABEL_0","score":0.9999866486,"word":".","start":6,"end":7}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":102,"text":"Cast off!","model_entities":[{"entity_group":"LABEL_0","score":0.9986095428,"word":"Cast off!","start":0,"end":9}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":103,"text":"Gaffer!","model_entities":[{"entity_group":"LABEL_0","score":0.9999453425,"word":"Gaffer!","start":0,"end":7}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":104,"text":"If you think to get rid of me this way--.","model_entities":[{"entity_group":"LABEL_0","score":0.9999917746,"word":"If you think to","start":0,"end":15},{"entity_group":"LABEL_1","score":0.9610480666,"word":"get","start":16,"end":19},{"entity_group":"LABEL_0","score":0.9826672673,"word":"rid of me","start":20,"end":29},{"entity_group":"LABEL_1","score":0.9989267588,"word":"this way","start":30,"end":38},{"entity_group":"LABEL_0","score":0.9999890924,"word":"--.","start":38,"end":41}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":105,"text":"If I don't get rid of you this way, I'll try another, and chop you over the fingers with the stretcher, or take a pick at your head with the boat-hook.","model_entities":[{"entity_group":"LABEL_0","score":0.9999681711,"word":"If I don't","start":0,"end":10},{"entity_group":"LABEL_1","score":0.9998047948,"word":"get","start":11,"end":14},{"entity_group":"LABEL_0","score":0.9789919853,"word":"rid of you","start":15,"end":25},{"entity_group":"LABEL_1","score":0.9997529387,"word":"this way","start":26,"end":34},{"entity_group":"LABEL_0","score":0.9969104528,"word":", I'll try another, and chop you over the fingers with the stretcher, or take a pick at your head with the boat-hook.","start":34,"end":151}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":106,"text":"Cast off!","model_entities":[{"entity_group":"LABEL_0","score":0.9986095428,"word":"Cast off!","start":0,"end":9}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":107,"text":"Pull you, Lizzie.","model_entities":[{"entity_group":"LABEL_0","score":0.9991740584,"word":"Pull you, Lizzie.","start":0,"end":17}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":108,"text":"Pull home, since you won't let your father pull.","model_entities":[{"entity_group":"LABEL_0","score":0.9997179508,"word":"Pull home, since you won't let your father pull.","start":0,"end":48}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":109,"text":"Lizzie shot ahead, and the other boat fell astern.","model_entities":[{"entity_group":"LABEL_0","score":0.9767051935,"word":"Lizzie shot ahead, and the other boat fell astern.","start":0,"end":50}],"label":"l"}
+
+
+
+{"annotator":"model","sentence_number":110,"text":"Lizzie's father, composing himself into the easy attitude of one who had asserted the high moralities and taken an unassailable position, slowly lighted a pipe, and smoked, and took a survey of what he had in tow.","model_entities":[{"entity_group":"LABEL_0","score":0.9997107387,"word":"Lizzie's father,","start":0,"end":16},{"entity_group":"LABEL_1","score":0.9830924273,"word":"compos","start":17,"end":23},{"entity_group":"LABEL_0","score":0.9999358654,"word":"ing himself","start":23,"end":34},{"entity_group":"LABEL_1","score":0.9997835755,"word":"into","start":35,"end":39},{"entity_group":"LABEL_0","score":0.9999963045,"word":"the","start":40,"end":43},{"entity_group":"LABEL_1","score":0.9279522896,"word":"easy attitude","start":44,"end":57},{"entity_group":"LABEL_0","score":0.9995282888,"word":"of one who had asserted the","start":58,"end":85},{"entity_group":"LABEL_1","score":0.9998959303,"word":"high","start":86,"end":90},{"entity_group":"LABEL_0","score":0.999687016,"word":"moralities and","start":91,"end":105},{"entity_group":"LABEL_1","score":0.9997739196,"word":"taken","start":106,"end":111},{"entity_group":"LABEL_0","score":0.7926595211,"word":"an una","start":112,"end":118},{"entity_group":"LABEL_1","score":0.7044212818,"word":"ssa","start":118,"end":121},{"entity_group":"LABEL_0","score":0.8816352487,"word":"il","start":121,"end":123},{"entity_group":"LABEL_1","score":0.9288397431,"word":"able position","start":123,"end":136},{"entity_group":"LABEL_0","score":0.9999038577,"word":", slowly lighted a pipe, and smoked, and","start":136,"end":176},{"entity_group":"LABEL_1","score":0.9763780832,"word":"took","start":177,"end":181},{"entity_group":"LABEL_0","score":0.9999958277,"word":"a","start":182,"end":183},{"entity_group":"LABEL_1","score":0.5917500257,"word":"survey","start":184,"end":190},{"entity_group":"LABEL_0","score":0.9973751903,"word":"of what he had in tow.","start":191,"end":213}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":111,"text":"What he had in tow, lunged itself at him sometimes in an awful manner when the boat was checked, and sometimes seemed to try to wrench itself away, thoughfor the most part it followed submissively.","model_entities":[{"entity_group":"LABEL_0","score":0.9999194145,"word":"What he had in tow,","start":0,"end":19},{"entity_group":"LABEL_1","score":0.9952955246,"word":"lunged","start":20,"end":26},{"entity_group":"LABEL_0","score":0.9999291897,"word":"itself","start":27,"end":33},{"entity_group":"LABEL_1","score":0.9983293414,"word":"at","start":34,"end":36},{"entity_group":"LABEL_0","score":0.9999821186,"word":"him sometimes","start":37,"end":50},{"entity_group":"LABEL_1","score":0.9994402528,"word":"in","start":51,"end":53},{"entity_group":"LABEL_0","score":0.9898746014,"word":"an awful manner when the boat was checked, and sometimes seemed to try to","start":54,"end":127},{"entity_group":"LABEL_1","score":0.8887827992,"word":"wrench","start":128,"end":134},{"entity_group":"LABEL_0","score":0.9825032353,"word":"itself away, though","start":135,"end":154},{"entity_group":"LABEL_1","score":0.9867853522,"word":"for","start":154,"end":157},{"entity_group":"LABEL_0","score":0.9997264147,"word":"the most part it","start":158,"end":174},{"entity_group":"LABEL_1","score":0.9998687506,"word":"followed","start":175,"end":183},{"entity_group":"LABEL_0","score":0.9525432587,"word":"submissively.","start":184,"end":197}],"label":"m"}
+
+
+
+{"annotator":"model","sentence_number":112,"text":"A neophyte might have fancied that the ripples passing over it were dreadfully like faint changes of expression on a sightless face; but Gaffer was no neophyte and had no fancies.","model_entities":[{"entity_group":"LABEL_0","score":0.9652126431,"word":"A neophyte might have fancied that the ripples passing over it were dreadfully like","start":0,"end":83},{"entity_group":"LABEL_1","score":0.9995828867,"word":"faint","start":84,"end":89},{"entity_group":"LABEL_0","score":0.9785175323,"word":"changes of expression","start":90,"end":111},{"entity_group":"LABEL_1","score":0.9845181108,"word":"on","start":112,"end":114},{"entity_group":"LABEL_0","score":0.9999964237,"word":"a","start":115,"end":116},{"entity_group":"LABEL_1","score":0.9529233575,"word":"sightless face","start":117,"end":131},{"entity_group":"LABEL_0","score":0.9626647234,"word":"; but Gaffer was no neophyte and","start":131,"end":163},{"entity_group":"LABEL_1","score":0.9999465942,"word":"had","start":164,"end":167},{"entity_group":"LABEL_0","score":0.998844862,"word":"no fan","start":168,"end":174},{"entity_group":"LABEL_1","score":0.8246956468,"word":"cies","start":174,"end":178},{"entity_group":"LABEL_0","score":0.9999930859,"word":".","start":178,"end":179}],"label":"m"}
+
+
+
