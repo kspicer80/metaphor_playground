@@ -46,16 +46,18 @@ with open("omf_chapter_1.jsonl", "w") as f:
 '''
 
 data = []
-with open("annotated_data/hemingway_clean_well_lighted_place_dr_s_annotations.jsonl", "r") as f:
+with open("annotated_data/our_mutual_friend_dr_s_annotations.jsonl", "r") as f:
     for line in f:
         data.append(json.loads(line))
 
 # Renumber the "sentence_number" key
 for i, d in enumerate(data):
     d["sentence_number"] = i + 1
+    d["label"] = ""
+    d['annotator'] = "william"
 
 # Write the list of dictionaries back to a JSONL file
-with open("annotated_data/hemingway_clean_well_lighted_place_dr_s_annotations.jsonl", "w") as f:
+with open("annotated_data/our_mutual_friend_william_annotations.jsonl", "w") as f:
     for d in data:
         f.write(json.dumps(d) + "\n")
 
